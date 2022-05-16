@@ -79,6 +79,7 @@ body{
     text-decoration: none;
     text-decoration-color: none;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+    /* padding-top: 8px; */
 }
 .proy>img{
     border-top-left-radius: 10px;
